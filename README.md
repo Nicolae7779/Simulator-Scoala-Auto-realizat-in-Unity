@@ -1,1 +1,1 @@
-# Simulator-coala-Auto-realizat-n-Unity
+# Simulator-Școala-Auto-realizat-n-Unity
