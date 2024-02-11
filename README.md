@@ -1,1 +1,1 @@
-# Simulator-Școala-Auto-realizat-n-Unity
+# Simulator-Scoala-Auto-realizat-in-Unity
