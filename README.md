@@ -1,7 +1,5 @@
 # Ciobanu_Nicolae_Aplicație_Practică_Informatică_Licență
 
-Adresa repository-ului: https://github.com/CiobanuNicolae777/Simulator-Scoala-Auto-realizat-in-Unity.git
-
 # Simulator Scoala Auto realizat în Unity
 
 Pașii pentru a transforma jocul din Unity într-un joc executabil
