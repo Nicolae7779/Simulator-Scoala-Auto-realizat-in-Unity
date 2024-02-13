@@ -18,3 +18,47 @@ Pașii pentru a transforma jocul din Unity într-un joc executabil
 7. După finalizarea procesului de construire, veți găsi fișierul executabil (Simulator Scoala Auto.exe) în folderul de destinație specificat.
 
 8. Se accesează fișierul cu extensia ".exe".
+
+
+
+![imagine](imagini/BMW_X5.JPG)
+
+![imagine](imagini/Ograda.JPG)
+
+![imagine](imagini/Parcare.JPG)
+
+![imagine](imagini/VAZ_2105.JPG)
+
+![imagine](imagini/VAZ__2105.png)
+
+![imagine](imagini/dark.JPG)
+
+![imagine](imagini/garaj.JPG)
+
+![imagine](imagini/interior_Vaz_2105.JPG)
+
+![imagine](imagini/intuneric.JPG)
+
+![imagine](imagini/lumina.JPG)
+
+![imagine](imagini/ograda2.JPG)
+
+![imagine](imagini/ograda3.JPG)
+
+![imagine](imagini/panta.JPG)
+
+![imagine](imagini/parcare2.JPG)
+
+![imagine](imagini/parcare_laterala.JPG)
+
+![imagine](imagini/parcare_laterala2.JPG)
+
+![imagine](imagini/pedale.JPG)
+
+![imagine](imagini/selecatre_masina.JPG)
+
+![imagine](imagini/shifter.JPG)
+
+![imagine](imagini/volan.JPG)
+
+![imagine](imagini/volan_schimbator_de_viteze_pedale.JPG)
