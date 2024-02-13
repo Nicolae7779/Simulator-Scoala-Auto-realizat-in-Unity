@@ -20,6 +20,10 @@ Pașii pentru a transforma jocul din Unity într-un joc executabil
 8. Se accesează fișierul cu extensia ".exe".
 
 
+![imagine](imagini/volan_schimbator_de_viteze_pedale.JPG)
+![imagine](imagini/volan.JPG)
+![imagine](imagini/shifter.JPG)
+![imagine](imagini/pedale.JPG)
 
 ![imagine](imagini/BMW_X5.JPG)
 
@@ -53,12 +57,9 @@ Pașii pentru a transforma jocul din Unity într-un joc executabil
 
 ![imagine](imagini/parcare_laterala2.JPG)
 
-![imagine](imagini/pedale.JPG)
+
 
 ![imagine](imagini/selecatre_masina.JPG)
 
-![imagine](imagini/shifter.JPG)
 
-![imagine](imagini/volan.JPG)
 
-![imagine](imagini/volan_schimbator_de_viteze_pedale.JPG)
