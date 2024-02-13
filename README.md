@@ -25,7 +25,7 @@ Pașii pentru a transforma jocul din Unity într-un joc executabil
 ![imagine](imagini/shifter.JPG)
 ![imagine](imagini/pedale.JPG)
 
-![imagine](imagini/selecatre_masina.JPG)
+
 
 ![imagine](imagini/garaj.JPG)
 
