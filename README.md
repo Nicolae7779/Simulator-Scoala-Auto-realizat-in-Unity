@@ -33,8 +33,6 @@ Pașii pentru a transforma jocul din Unity într-un joc executabil
 
 ![imagine](imagini/VAZ_2105.JPG)
 
-![imagine](imagini/VAZ__2105.png)
-
 ![imagine](imagini/dark.JPG)
 
 ![imagine](imagini/garaj.JPG)
