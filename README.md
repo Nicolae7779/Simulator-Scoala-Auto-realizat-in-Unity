@@ -27,6 +27,8 @@ Pașii pentru a transforma jocul din Unity într-un joc executabil
 
 ![imagine](imagini/selecatre_masina.JPG)
 
+![imagine](imagini/garaj.JPG)
+
 ![imagine](imagini/BMW_X5.JPG)
 
 ![imagine](imagini/VAZ_2105.JPG)
@@ -39,7 +41,7 @@ Pașii pentru a transforma jocul din Unity într-un joc executabil
 
 ![imagine](imagini/dark.JPG)
 
-![imagine](imagini/garaj.JPG)
+
 
 ![imagine](imagini/interior_Vaz_2105.JPG)
 
