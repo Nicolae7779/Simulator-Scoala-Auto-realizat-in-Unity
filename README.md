@@ -21,11 +21,12 @@ Pașii pentru a transforma jocul din Unity într-un joc executabil
 
 
 ![imagine](imagini/volan_schimbator_de_viteze_pedale.JPG)
+
 ![imagine](imagini/volan.JPG)
+
 ![imagine](imagini/shifter.JPG)
+
 ![imagine](imagini/pedale.JPG)
-
-
 
 ![imagine](imagini/garaj.JPG)
 
@@ -33,34 +34,29 @@ Pașii pentru a transforma jocul din Unity într-un joc executabil
 
 ![imagine](imagini/VAZ_2105.JPG)
 
-![imagine](imagini/Ograda.JPG)
-
-![imagine](imagini/Parcare.JPG)
-
-
+![imagine](imagini/interior_Vaz_2105.JPG)
 
 ![imagine](imagini/dark.JPG)
 
-
-
-![imagine](imagini/interior_Vaz_2105.JPG)
-
 ![imagine](imagini/intuneric.JPG)
+
+![imagine](imagini/ograda3.JPG)
+
+![imagine](imagini/parcare2.JPG)
 
 ![imagine](imagini/lumina.JPG)
 
 ![imagine](imagini/ograda2.JPG)
 
-![imagine](imagini/ograda3.JPG)
+![imagine](imagini/Ograda.JPG)
 
-![imagine](imagini/panta.JPG)
-
-![imagine](imagini/parcare2.JPG)
+![imagine](imagini/Parcare.JPG)
 
 ![imagine](imagini/parcare_laterala.JPG)
 
 ![imagine](imagini/parcare_laterala2.JPG)
 
+![imagine](imagini/panta.JPG)
 
 
 
