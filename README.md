@@ -19,7 +19,7 @@ Pașii pentru a transforma jocul din Unity într-un joc executabil
 
 8. Se accesează fișierul cu extensia ".exe".
 
-   Link: https://youtu.be/clQ9CtunTqQ
+Link Youtube: https://youtu.be/clQ9CtunTqQ
 
 
 ![imagine](imagini/volan_schimbator_de_viteze_pedale.JPG)
